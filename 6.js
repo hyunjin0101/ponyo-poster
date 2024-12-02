@@ -1,10 +1,10 @@
 //하단 포스터 링크
 const posterLinks = [  
     '1.html', 
-    '2.html', 
+    'index.html', 
     '3.html',
     '4.html',
-    'index.html'
+    '5.html'
   ];
   
   //상단 메뉴
